@@ -1,7 +1,7 @@
 # Dell-Optiplex-7060-EFI-
 Prebuilt Opencore EFI for the Dell Optiplex 7060 **Tower**.
 
-Specs:
+# Specs:
 **i7 8700 (Coffee Lake)
 | Intel UHD Graphics 630 (1536 MB)**
 
