@@ -18,3 +18,15 @@ Specs:
 No wireless internet card.
 
 
+# Whats working:
+Intel UHD Graphics 630 ✅
+
+Intel gigabit ethernet ✅
+
+Realtek integrated audio ALC3236 ❌
+
+Realtek memory card Reader ❔ (Not tested)
+
+Panasonic Matshita DVD RW ❔ (Not tested)
+
+
