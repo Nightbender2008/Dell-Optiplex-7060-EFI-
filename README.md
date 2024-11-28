@@ -5,6 +5,8 @@ Specs:
 **i7 8700 (Coffee Lake)
 | Intel UHD Graphics 630 (1536 MB)**
 
+**8GB DDR4 2666MHZ Dual Channel**
+
 **Intel 370 series chipset motherboard (Dell OEM)**
 
 **Intel gigabit ethernet**
@@ -23,13 +25,37 @@ No wireless internet card.
 
 **Intel gigabit ethernet** ✅
 
-**Realtek integrated audio ALC3236** ❌
+**CPU Turbo Boost** ✅
+
+**IGPU Accelerator (Metal-2 HEVC H.264 Video Decode/EnCode)** ✅
+
+**AirDrop & Airplay** ✅
+
+**Sleep and wake support** ✅
+
+# Untested/Not Working:-
+**Realtek integrated audio and microphone ALC3236** ❌
 
 **Realtek memory card Reader** ❔ (Not tested)
 
 **Panasonic Matshita DVD RW** ❔ (Not tested)
 
-**Real Time Clock (RTC)** ❔(Not tested)
+**Real Time Clock (RTC)** ❔(Not tested) 
+
+# BIOS Settings 
+System Configuration → SATA Mode: AHCI
+
+Secure Boot → Secure Boot Enable: Disabled
+
+Security → TPM → Disable TPM
+
+System Configuration → Serial Port→ Disable Serial Port
+
+Intel® Software Guard Extensions™ → Intel® SGX™ → Disable Intel® SGX™
+
+Hyperthreading → Enabled
+
+VT/D → Enabled
 
 
 
