@@ -15,7 +15,7 @@ Prebuilt Opencore EFI for the Dell Optiplex 7060 **Tower**.
 
 **Seagate 1TB FireCuda ST1000L HDD**
 
-**Realtek integrated audio ALC3236**
+**Realtek integrated microphone and audio ALC3236**
 
 No wireless internet card.
 
@@ -34,7 +34,7 @@ No wireless internet card.
 **Sleep and wake support** ✅
 
 # Untested/Not Working:-
-**Realtek integrated audio and microphone ALC3236** ❌
+**Realtek integrated microphone and audio ALC3236** ❌
 
 **Realtek memory card Reader** ❔ (Not tested)
 
