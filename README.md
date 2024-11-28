@@ -35,7 +35,7 @@ No wireless internet card.
 
 # Note:-
 
-Please update the SMBIOS information with your own serial number MLB, etc using GenSMBIOS, otherwise the EFI will not work. 
+**Please update the SMBIOS information with your own serial number MLB, etc using GenSMBIOS, otherwise the EFI will not work.**
 You can enable verbose boot by adding -v to the boot args incase your hackintosh is not booting.
 If you do not use a NvMe SSD, please remove NvMefix.kext from kexts and make a snapshot in ProperTree.
 You can inform me of any issues or bugs.
@@ -43,6 +43,13 @@ You can inform me of any issues or bugs.
 **If you know the layout ID for the audio, please inform me,** I will update the EFI. Current layout ID is **3** and audio stil wont work.
 **I reccomend installing this build on a NvMe or Sata SSD as it is pretty slow on the harddrive.**
 **Real time clock is not confirmed to be working. (Will test)**
+
+
+# Screenshots:-
+
+[Screenshot 2024-11-28 at 10 55 50 PM](https://github.com/user-attachments/assets/ecba341c-aa8c-4529-a7e8-52c9b64fbbbf)
+[Screenshot 2024-11-28 at 10 56 34 PM](https://github.com/user-attachments/assets/6ceb19c5-44a2-47fc-ab58-796ccc9153ef)
+[Screenshot 2024-11-28 at 10 56 18 PM](https://github.com/user-attachments/assets/c383607d-b458-47ff-b7e0-c2da2b46e753)
 
 
 
