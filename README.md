@@ -11,7 +11,7 @@ Specs:
 
 **WD Blue SN520 512GB NvMe SSD**
 
-**Seagate 1TB SSHD FireCuda Gaming ST1000LX015 HDD**
+**Seagate 1TB FireCuda ST1000L HDD**
 
 **Realtek integrated audio ALC3236**
 
