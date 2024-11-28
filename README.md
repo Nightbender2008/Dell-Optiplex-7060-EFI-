@@ -35,9 +35,9 @@ No wireless internet card.
 
 # Note:-
 
-Please update the SMBIOS information with your own serial number MLB, etc. Otherwise the EFI will not work. 
+Please update the SMBIOS information with your own serial number MLB, etc using GenSMBIOS, otherwise the EFI will not work. 
 You can enable verbose boot by adding -v to the boot args incase your hackintosh is not booting.
-If you do not use a NvMe SSD, please remove NvMefix.kext from kexts and do a snapshot.
+If you do not use a NvMe SSD, please remove NvMefix.kext from kexts and make a snapshot in ProperTree.
 You can inform me of any issues or bugs.
 **This EFI has been tested only on Ventura, it will be tested on higher versions later.**
 **If you know the layout ID for the audio, please inform me,** I will update the EFI. Current layout ID is **3** and audio stil wont work.
